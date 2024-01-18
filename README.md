@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sade</h1>
 <h3 align="center">A passionate frontend developer from Auckland, New Zealand</h3>
 
+- 👨‍💻 My First Solo Full-Stack Project [...](...)
+
+- 📝 My Foundations Portfolio I created using HTML, CSS and JS, includes blogs, games and wellbeing apps @ [https://sadehillman.github.io/](https://sadehillman.github.io/)
+
+- 📫 How to reach me **Sadehillman@hotmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sade-hillman-29407b22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sade-hillman-29407b22b" height="30" width="40" /></a>
