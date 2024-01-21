@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sade</h1>
 <h3 align="center">A passionate frontend developer from Auckland, New Zealand</h3>
 
-- 👨‍💻 My First Solo Full-Stack Project [...](...)
+- 👨‍💻 My First Solo Full-Stack Project [https://github.com/SadeHillman/BookTracker/tree/main/Booktracker/my-fullstack-collection-query](https://github.com/SadeHillman/BookTracker/tree/main/Booktracker/my-fullstack-collection-query)
 
 - 📝 My Foundations Portfolio I created using HTML, CSS and JS, includes blogs, games and wellbeing apps @ [https://sadehillman.github.io/](https://sadehillman.github.io/)
 
